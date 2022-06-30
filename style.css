@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+    
+
+
+}
+
+.web-name{
+    font-size: 150px;
+    text-align: center;
+    color:plum;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box{
+    display: inline-block;
+    width: 500px;
+    
+  
+}
+.box.img{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.box.list{
+    
+    margin-bottom: 400px;
+    vertical-align: middle ;
+    font-size:50px;
+}
